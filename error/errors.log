@@ -1,0 +1,12 @@
+[2021-12-23 11:40:29] Message error: Uncaught TypeError: Argument 1 passed to error\ErrorHandler::exceptionHandler() must be an instance of error\Exception, instance of ArgumentCountError given in C:\xampp\htdocs\Gallery\error\index.php:31
+Stack trace:
+#0 [internal function]: error\ErrorHandler->exceptionHandler(Object(ArgumentCountError))
+#1 {main}
+  thrown | File: C:\xampp\htdocs\Gallery\error\index.php | Line: 31
+==================
+[2021-12-23 11:40:47] Message error: Uncaught TypeError: Argument 1 passed to error\ErrorHandler::exceptionHandler() must be an instance of error\Exception, instance of ArgumentCountError given in C:\xampp\htdocs\Gallery\error\index.php:31
+Stack trace:
+#0 [internal function]: error\ErrorHandler->exceptionHandler(Object(ArgumentCountError))
+#1 {main}
+  thrown | File: C:\xampp\htdocs\Gallery\error\index.php | Line: 31
+==================
